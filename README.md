@@ -46,8 +46,5 @@ The Drive Guard System is an intelligent safety application that utilizes a came
 ![FM Radio](/screenshots/cpack5.png)
 ![FM Radio](/screenshots/cpack6.png)
 
-## Contributions:
-
-Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
 
 
